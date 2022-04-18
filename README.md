@@ -1,4 +1,4 @@
-# Python Capstone Project
+# Project_Capstone
 # Project Definition
 For this project, create a document where you should:
 • Name it as following: PROJECT_NAME [members names separated by comma].
